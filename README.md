@@ -1,5 +1,5 @@
-# GeeksForGeeks
-Platform game using Godot and GDScript
+# Platform Game
+Using Godot and GDScript
 
 ## 1. Tutorial
 ```
