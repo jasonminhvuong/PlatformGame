@@ -7,7 +7,7 @@
 [node name="World" type="Node"]
 
 [node name="Player" parent="." instance=ExtResource( 1 )]
-position = Vector2( 64, 96 )
+position = Vector2( 64, 128 )
 
 [node name="WorldComplete" parent="." instance=ExtResource( 2 )]
 position = Vector2( 480, 96 )
@@ -17,3 +17,6 @@ next_world = "res://World2.tscn"
 tile_set = ExtResource( 3 )
 format = 1
 tile_data = PoolIntArray( 65545, 0, 5, 131077, 0, 5, 131081, 0, 65541, 196608, 0, 1, 196609, 0, 2, 196613, 0, 8, 196614, 0, 65536, 196615, 0, 2, 196617, 0, 65541, 262144, 0, 65537, 262145, 0, 65547, 262146, 0, 10, 262147, 0, 65536, 262148, 0, 65536, 262149, 0, 65540, 262150, 0, 196619, 262151, 0, 65539, 262152, 0, 65536, 262153, 0, 11, 327682, 0, 65537, 327683, 0, 131072, 327684, 0, 131072, 327685, 0, 131072, 327686, 0, 131072, 327687, 0, 131072, 327688, 0, 131072, 327689, 0, 65538 )
+__meta__ = {
+"_edit_group_": true
+}
